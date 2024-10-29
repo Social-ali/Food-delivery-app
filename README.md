@@ -1,5 +1,4 @@
 # Food-delivery-app
-# Food Delivery App
 
 A modern food delivery application built with React.js. This project allows users to browse restaurants, view menus, and place orders online.
 
